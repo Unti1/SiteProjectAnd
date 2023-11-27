@@ -1,0 +1,42 @@
+h1 a {
+    color: #5cc9d9;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+    
+}
+
+.external_link{
+    border: none;
+    font-size: bold;
+}
+
+#sode_id_link{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: #000000;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    justify-content: center;
+}
+
+
+#post {
+    color: #90EE90;
+    font-family: 'Gabarito', cursive;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Gabarito', cursive;
+    text-shadow: 1px 1px 5px black;
+    background: #333333;
+}
+#post h2 a{
+    color: #90EE90;
+}
+
+.date {
+    justify-content: left;
+}
